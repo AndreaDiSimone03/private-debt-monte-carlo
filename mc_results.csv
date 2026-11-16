@@ -1,0 +1,10 @@
+,corr 0.0,corr 0.15,corr 0.3
+Expected loss,0.00103,0.00361,0.00547
+Mean IRR,0.04888,0.04815,0.04758
+Median IRR,0.0493,0.04936,0.04978
+IRR 5th percentile,0.04522,0.04084,0.03744
+P(IRR < 0),0.0,0.00045,0.00275
+Credit VaR 99%,0.01976,0.05035,0.08268
+Expected shortfall 99%,0.02849,0.07626,0.12831
+Mean defaults,1.08445,1.0844,1.0891
+P(at least 1 default),0.67325,0.6144,0.54665
